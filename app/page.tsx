@@ -111,7 +111,7 @@ export default function Home() {
         </Link>
       </div>
 
-      <div className="absolute md:bottom-30 md:right-[20rem] bottom-[7rem] z-[0]">
+      <div className="absolute md:bottom-30 md:right-[20rem] mt-10 bottom-[7rem] z-[0]">
 
 
         <Image

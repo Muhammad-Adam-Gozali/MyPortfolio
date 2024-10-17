@@ -4,10 +4,11 @@ import './globals.css'
 import Navbar from '@/components/Navbar'
 import Navigation from '@/components/Navigation'
 
+
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Webchain dev',
+  title: 'Task Adam I Software Engineer',
   description: 'This is my portfolio',
 }
 

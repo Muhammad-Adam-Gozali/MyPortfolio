@@ -17,11 +17,11 @@ const Navbar = () => {
             className="w-full h-full object-contain rounded-full"
           /> */}
         </div>
-        <h1 className="text-white md:text-[25px] text-[22px] font-semibold">
+        <h1 className="text-white md:text-[25px] text-[20px] font-semibold">
           {""}Adam{" "}
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-red-500">
             {" "}
-            / Dev{">"}
+            / site{">"}
           </span>
         </h1>
       </div>

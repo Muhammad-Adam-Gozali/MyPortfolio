@@ -101,7 +101,7 @@ export default function Home() {
           href="/work-experiences"
           className="rounded-[20px] group bg-transparent border border-white px-3 py-3 text-white max-w-[200px]"
         >
-          My Works
+          My Work
         </Link>
         <Link
           href="/contact-me"

@@ -101,7 +101,7 @@ export default function Home() {
           href="/work-experiences"
           className="rounded-[20px] group bg-transparent border border-white px-3 py-3 text-white max-w-[200px]"
         >
-          My Work
+          My Works
         </Link>
         <Link
           href="/contact-me"
@@ -111,7 +111,7 @@ export default function Home() {
         </Link>
       </div>
 
-      <div className="absolute md:bottom-30 md:right-[20rem] mt-20 md:mt-0 bottom-[4rem] z-[0]">
+      <div className="absolute md:bottom-30 md:right-[20rem] mt-20 md:mt-0 bottom-[rem] z-[0]">
 
 
         <Image

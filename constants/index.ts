@@ -108,7 +108,7 @@ export const Socials = [
 export const Projects = [
   {
     title: "Telkom Indonesia",
-    text: "Developing an Analytics Chatbot Application in Telkom DBT department using Next js and Express js Framework.",
+    text: "Developing an Analytics Chatbot Application in Telkom DBT department using Next.js, Express.js, and mongoDB for the database.",
     src: "/ProjectTelkom3.png",
     link: "https://staging-ica-telkomai-c2b8fbatbpgaaghh.z01.azurefd.net",
   },
@@ -120,7 +120,7 @@ export const Projects = [
   },
   {
     title: "Personal Project",
-    text: "A space-themed portfolio website that I built using Next js framework and Typescript.",
+    text: "A space-themed portfolio website that I built using Next.js framework and Typescript.",
     src: "/lp-porto.png",
     link: "https://adamgoosite.vercel.app",
   },

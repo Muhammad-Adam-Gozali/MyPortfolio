@@ -22,7 +22,7 @@ const Page = () => {
       style={{ backgroundImage: "url(/bg-4.jpg)" }}
       className="w-screen h-screen flex flex-col items-center justify-center bg-center bg-cover"
       >
-        <h1 className="text font-semibold text-white md:text-[50px] text-[30px] md:mb-0 mb-10 text-center ">Work</h1>
+        <h1 className="text font-semibold text-white md:text-[50px] text-[30px] md:mb-0 mb-10 text-center ">Works</h1>
           <p className="text text-white md:text-[20px] text-[20px] md:mb-0 mb-10 text-center mx-4">Here&apos;s a glimpse of my journey as a Software Engineer!</p>
           <div className="w-full max-w-screen-lg px-12">
             <Slider {...settings}>
@@ -38,6 +38,7 @@ const Page = () => {
               ))}
             </Slider>
           </div>
+          <p className="text text-white md:text-[15px] text-[10px] md:mb-0 mb-10 text-center mx-4">Tap for details</p>
       <Image
         src="/stars.png"
         alt="stars"

@@ -61,7 +61,7 @@ export default function Home() {
               </span>
             </h1>
             <p className="text-gray-200 md:text-[15px] block z-[30] ml-10 mr-10 md:m-[0]">
-              A Software Engineer with 1+ year experience in <span className="font-semibold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-red-500">Fullstack <br className="md:hidden"></br>Development.</span>
+              A Software Engineer with 1+ year experience in <span className="font-semibold md:text-transparent md:bg-clip-text md:bg-gradient-to-r md:from-purple-500 md:to-red-500">Fullstack <br className="md:hidden"></br>Development.</span>
             </p>
           </div>
 

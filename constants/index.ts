@@ -108,15 +108,21 @@ export const Socials = [
 export const Projects = [
   {
     title: "Telkom Indonesia",
-    text: "Develop features Chatbot Application of Telkom's Digital Business and Technology using Next js and Express js Framework.",
-    src: "/ProjectTelkom2.png",
-    link: "https://staging-ica-telkomai-c2b8fbatbpgaaghh.z01.azurefd.net/login",
+    text: "Developing an Analytics Chatbot Application in Telkom DBT department using Next js and Express js Framework.",
+    src: "/ProjectTelkom3.png",
+    link: "https://staging-ica-telkomai-c2b8fbatbpgaaghh.z01.azurefd.net",
   },
   {
-    title: "Space Website",
+    title: "IMM FIKTI UMSU",
+    text: "Developing a website landing page for the organization IMM FIKTI UMSU using html, css, and javascript.",
+    src: "/weborganization.png",
+    link: "https://immfiktiumsu-progresif.blogspot.com/",
+  },
+  {
+    title: "Personal Project",
     text: "A space-themed portfolio website that I built using Next js framework and Typescript.",
     src: "/lp-porto.png",
-    link: "https://adamgozali.000webhostapp.com/",
+    link: "https://adamgoosite.vercel.app",
   },
 ];
 

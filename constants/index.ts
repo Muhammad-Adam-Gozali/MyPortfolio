@@ -146,7 +146,7 @@ export const NavLinks = [
   {
     name: "Download Cv",
     icon: RxIdCard,
-    link: "https://drive.google.com/file/d/1w8bPR6bLNOviihu8IRPqLqPcdtcq5zH4/view?usp=sharing",
+    link: "https://drive.google.com/file/d/1tHCPpKsZdHEAeTtM-CRiHWH6JhXi45KJ/view?usp=sharing",
   },
   {
     name: "/contact-me",

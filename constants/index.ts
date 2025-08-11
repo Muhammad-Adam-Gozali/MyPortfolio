@@ -73,7 +73,12 @@ export const SkillData = [
 
 export const Socials = [
   {
-    name: "Git",
+    name: "Github",
+    src: "/github.svg",
+    link: "https://github.com/Muhammad-Adam-Gozali",
+  },
+  {
+    name: "Gitlab",
     src: "/gitlab.svg",
     link: "https://gitlab.com/muhammadadamgozali",
   },

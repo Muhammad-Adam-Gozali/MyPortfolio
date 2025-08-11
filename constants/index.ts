@@ -2,34 +2,16 @@ import { RxHome, RxPerson, RxDashboard, RxEnvelopeClosed, RxIdCard } from "react
 
 export const SkillData = [
   {
-    name: "Html 5",
-    Image: "/html.png",
-    width: 80,
-    height: 80,
-  },
-  {
-    name: "Css",
-    Image: "/css.png",
-    width: 80,
-    height: 80,
-  },
-  {
-    name: "JavaScript",
-    Image: "/js.png",
-    width: 65,
-    height: 65,
-  },
-  {
-    name: "TypeScript",
-    Image: "/ts.png",
-    width: 80,
-    height: 80,
-  },
-  {
-    name: "Tailwind Css",
+    name: "Tawilwind Css",
     Image: "/tailwind.png",
     width: 80,
     height: 80,
+  },
+  {
+    name: "Javascript",
+    Image: "/js.png",
+    width: 65,
+    height: 65,
   },
   {
     name: "React",
@@ -37,30 +19,13 @@ export const SkillData = [
     width: 80,
     height: 80,
   },
-  // {
-  //   name: "Redux",
-  //   Image: "/redux.png",
-  //   width: 80,
-  //   height: 80,
-  // },
+
   {
     name: "Next js 13",
     Image: "/nextjs.png",
     width: 80,
     height: 80,
   },
-  // {
-  //   name: "Framer Motion",
-  //   Image: "/framer.png",
-  //   width: 80,
-  //   height: 80,
-  // },
-  // {
-  //   name: "Stripe Payment",
-  //   Image: "/stripe.webp",
-  //   width: 80,
-  //   height: 80,
-  // },
   {
     name: "Node js",
     Image: "/node-js.png",
@@ -85,6 +50,25 @@ export const SkillData = [
     width: 100,
     height: 0,
   },
+  {
+    name: "Jquery",
+    Image: "/jquery.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    name: "Laravel",
+    Image: "/logo-laravel.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    name: "PHP",
+    Image: "/php.png",
+    width: 80,
+    height: 80,
+  },
+  
 ];
 
 export const Socials = [
@@ -119,10 +103,16 @@ export const Projects = [
     link: "https://immfiktiumsu-progresif.blogspot.com/",
   },
   {
-    title: "Personal Project",
-    text: "A space-themed portfolio website that I built using Next.js framework and Typescript.",
-    src: "/lp-porto.png",
-    link: "https://adamgoosite.vercel.app",
+    title: "UMSU Language and Training Center",
+    text: "Developing app for the UMSU Language and Training Center using Laravel, Tailwind CSS, and Jquery.",
+    src: "/ultra.png",
+    link: "https://ultra.umsu.ac.id/",
+  },
+   {
+    title: "Evalyu",
+    text: "Co-Develop app using Laravel, Tailwind CSS, yajratable, and Jquery.",
+    src: "/evalyu.png",
+    link: "https://evalyu.umsu.ac.id/",
   },
 ];
 
@@ -144,9 +134,9 @@ export const NavLinks = [
     link: "/work-experiences",
   },
   {
-    name: "Download Cv",
+    name: "Download Certificate",
     icon: RxIdCard,
-    link: "https://drive.google.com/file/d/1tHCPpKsZdHEAeTtM-CRiHWH6JhXi45KJ/view?usp=sharing",
+    link: "https://drive.google.com/drive/folders/1B-pJm9M9tEdXwfU54WQqFssFTpdkNRLK",
   },
   {
     name: "/contact-me",

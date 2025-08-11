@@ -102,7 +102,7 @@ export const Projects = [
     link: "https://staging-ica-telkomai-c2b8fbatbpgaaghh.z01.azurefd.net",
   },
   {
-    title: "UMSU Language and Training Assessment",
+    title: "UMSU Language Training & Assessment",
     text: "Developing app for the UMSU Language and Training Center using Laravel, Tailwind CSS, and Jquery.",
     src: "/ultra.png",
     link: "https://ultra.umsu.ac.id/",

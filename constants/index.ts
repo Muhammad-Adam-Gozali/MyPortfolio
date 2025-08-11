@@ -102,14 +102,14 @@ export const Projects = [
     link: "https://staging-ica-telkomai-c2b8fbatbpgaaghh.z01.azurefd.net",
   },
   {
-    title: "UMSU Language and Training Center",
+    title: "UMSU Language and Training Assessment",
     text: "Developing app for the UMSU Language and Training Center using Laravel, Tailwind CSS, and Jquery.",
     src: "/ultra.png",
     link: "https://ultra.umsu.ac.id/",
   },
    {
     title: "Evalyu",
-    text: "Co-Develop app using Laravel, Tailwind CSS, yajratable, and Jquery.",
+    text: "Co-Develop evalyu app using Laravel, Tailwind CSS, yajratable, and Jquery.",
     src: "/evalyu.png",
     link: "https://evalyu.umsu.ac.id/",
   },
@@ -118,7 +118,7 @@ export const Projects = [
     text: "Developing a website landing page for the organization IMM FIKTI UMSU using html, css, and javascript.",
     src: "/weborganization.png",
     link: "https://immfiktiumsu-progresif.blogspot.com/",
-  }
+  },
 ];
 
 

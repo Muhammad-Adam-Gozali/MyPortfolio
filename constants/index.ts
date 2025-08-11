@@ -103,7 +103,7 @@ export const Projects = [
   },
   {
     title: "UMSU Language Training & Assessment",
-    text: "Developing app for the UMSU Language and Training Center using Laravel, Tailwind CSS, and Jquery.",
+    text: "Developing app for the UMSU Language Training & Assessment using Laravel, Tailwind CSS, and Jquery.",
     src: "/ultra.png",
     link: "https://ultra.umsu.ac.id/",
   },
